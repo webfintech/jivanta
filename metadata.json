@@ -1,0 +1,6 @@
+{
+  "name": "Jivanta Wellness MLM Core Management System",
+  "description": "Enterprise Multi-Level Marketing (MLM) platform with binary tree tracking, e-wallet, automated commission payouts, recursive hierarchy SQL engine, and 10-language CMS onboarding portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
